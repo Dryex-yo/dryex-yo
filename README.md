@@ -8,7 +8,8 @@
 
 <br><br><br>🔧 Tech Stack & Interests
 
-**VILT Stack** (Vite, Inertia.js, Laravel, React) & **MERN Stack** (MongoDB, Express, React, Node.js)
+**VILT Stack:** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Inertia.js](https://img.shields.io/badge/inertia.js-9553E9?style=flat&logo=inertia.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+**MERN Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 Passionate about building full-stack applications, modernizing development workflows, and exploring AI-assisted coding.
 
